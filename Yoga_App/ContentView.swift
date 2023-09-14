@@ -15,6 +15,9 @@ struct ContentView: View {
         YogaPose(name: "Downward Dog", description: "A classic yoga pose that stretches the entire body.", imageName: "downward_dog"),
         YogaPose(name: "Tree Pose", description: "A balance pose that strengthens the legs and improves focus.", imageName: "tree_pose"),
         YogaPose(name: "Child's Pose", description: "A resting pose that provides relaxation and stretches the back.", imageName: "childs_pose"),
+        YogaPose(name: "Downward Dog", description: "A classic yoga pose that stretches the entire body.", imageName: "downward_dog"),
+        YogaPose(name: "Tree Pose", description: "A balance pose that strengthens the legs and improves focus.", imageName: "tree_pose"),
+        YogaPose(name: "Child's Pose", description: "A resting pose that provides relaxation and stretches the back.", imageName: "childs_pose"),
         // Add more yoga poses as needed
     ]
     var body: some View {
